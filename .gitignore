@@ -16,7 +16,6 @@ venv/
 .DS_Store
 
 /build
-/dash_core_components
 dash_core_components_base/plotly.min.js
 /deps
 /inst
